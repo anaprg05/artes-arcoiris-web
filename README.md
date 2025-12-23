@@ -18,9 +18,9 @@ El objetivo del proyecto es **promocionar las clases**, mostrar los **servicios*
 ---
 
 ## 📁 Estructura del proyecto
-
+```bash
 src/
-├─ assets/        # Imágenes, íconos y recursos visuales
+├─ assets/ # Imágenes, íconos y recursos visuales
 ├─ components/    # Componentes reutilizables
 │  ├─ layout/     # Navbar, Footer, Layout general
 │  └─ ui/         # Botones, cards, etc.
@@ -29,6 +29,7 @@ src/
 ├─ data/          # Datos mock (servicios, eventos, productos)
 ├─ styles/        # Estilos globales
 └─ App.jsx
+```
 
 ---
 
